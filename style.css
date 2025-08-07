@@ -81,6 +81,11 @@ section {
 
 .arrow-img {
     margin: 15px 0;
+   
+}
+
+.currency-img{
+    width: 70px;
 }
 
 .currency-box {
